@@ -23,7 +23,7 @@ body {
 .card {
   height: auto;
   background-color: #fff;
-  width: 280px;
+  max-width: 280px;
   padding: 16px;
   border-radius: 20px;
 }
