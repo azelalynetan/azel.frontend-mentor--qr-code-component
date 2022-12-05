@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/azelalynetan/frontend-mentor--qr-code-component)
-- Live Site URL: [Add live site URL here](https://azelalynetan.github.io/azel.frontend-mentor--qr-code-component/)
+- Solution URL: [Solution](https://github.com/azelalynetan/frontend-mentor--qr-code-component)
+- Live Site URL: [Live site](https://azelalynetan.github.io/azel.frontend-mentor--qr-code-component/)
 
 ## My process
 
@@ -31,6 +31,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML and CSS
 
 ### What I learned
+
+- Give importance to Semantic HTML
+- Usage of width and max-width to improve responsiveness
 
 ### Continued development
 
